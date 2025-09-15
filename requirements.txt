@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+google-cloud-vision
+google-auth
+requests
+python-multipart
+pillow
+transformers
+torch
